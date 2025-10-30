@@ -1,0 +1,7 @@
+vendor/
+*.log
+*.tmp
+*.bak
+.DS_Store
+.idea/
+*.iml
